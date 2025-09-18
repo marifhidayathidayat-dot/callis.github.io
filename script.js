@@ -579,7 +579,7 @@ function initializeMusicPlayer() {
             </div>
             <div class="music-info">
                 <div class="current-playlist">Now Playing: Birthday Special Mix</div>
-                <div class="playlist-description">Lagu-lagu spesial untuk hari istimewa kamu ✨</div>
+                <div class="playlist-description">Lagu-lagu spesial buat hari istimewa dede ✨</div>
             </div>
         </div>
     `;
@@ -625,14 +625,14 @@ function loadSpotifyPlaylist(playlistNumber) {
       embedUrl:
         "https://open.spotify.com/embed/playlist/37i9dQZF1DWYtQSOiZF6hj?si=0b945793c2934ba1",
       name: "Birthday Special Mix",
-      description: "Lagu-lagu spesial untuk hari istimewa kamu ✨",
+      description: "Lagu-lagu spesial buat hari istimewa dede ✨",
     },
     2: {
       // Ganti dengan playlist kedua kamu
       embedUrl:
         "https://open.spotify.com/embed/playlist/3gPSenyxZMdB3A54HeEruz?si=6b4dec830d4f4a48",
       name: "Love Songs Collection",
-      description: "Koleksi lagu cinta terbaik untuk kita ❤️",
+      description: "Koleksi lagu cinta terbaik buat kita ❤️",
     },
     3: {
       // Ganti dengan playlist ketiga kamu
